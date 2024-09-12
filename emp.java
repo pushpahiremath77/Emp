@@ -6,6 +6,7 @@ public class emp {
 
     public static void main(String[] args) {
         System.out.println("Welcome to Employee Wage Computation");
+	System.out.println("Welcome");
 
         // UC-1: Employee Attendance
         Random random = new Random();
